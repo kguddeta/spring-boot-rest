@@ -1,4 +1,4 @@
-package com.EmployeeService;
+package com.EmployeeService.model;
 
 public class Employee {
 
